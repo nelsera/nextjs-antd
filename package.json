@@ -1,16 +1,35 @@
 {
   "name": "nextjs-antd",
   "version": "0.0.0",
-  "repository": "git@github.com:francisconelson/nextjs-antd.git",
+  "description": "Next.js + Ant Design",
+  "homepage": "https://francisconelson.github.io/nextjs-antd",
+  "bugs": {
+    "email": "",
+    "url": "https://github.com/francisconelson/nextjs-antd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:francisconelson/nextjs-antd.git"
+  },
+  "license": "SEE LICENSE IN ./.github/LICENSE",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Nelson",
+      "email": "franciscosilvanelson@gmail.com",
+      "url": "https://github.com/francisconelson"
+    }
+  ],
   "engine": {
     "node": "11.8.0",
-    "npm": "6.7.0"
+    "yarn": "1.13.0"
   },
   "scripts": {
     "preinstall": "./preinstall.sh",
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "update": "yarn upgrade-interactive --latest"
   },
   "dependencies": {
     "@zeit/next-less": "1.0.1",
@@ -24,8 +43,5 @@
     "react": "16.7.0",
     "react-dom": "16.7.0"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "ncu": "^0.2.1"
-  }
+  "config": {}
 }
