@@ -1,5 +1,8 @@
 # Welcome to Next.js with AntD
 
+> You can choose to use with yarn or npm.
+
+
 ## Contents
 
 - [Stack](#stack)
@@ -13,11 +16,8 @@
 ## Stack
 
 - [React.js 16](https://reactjs.org)
-- [Next 7](https://nextjs.org)
+- [Next.js 7](https://nextjs.org)
 - [Ant Design](https://ant.design)
-
-## Notes
-You can choose to use with yarn or npm.
 
 ## Install
 Install global and local dependencies<br>
