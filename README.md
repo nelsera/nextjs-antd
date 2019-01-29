@@ -1,8 +1,5 @@
 # Welcome to Next.js with AntD
 
-> You can choose to use with yarn or npm.
-
-
 ## Contents
 
 - [Stack](#stack)
@@ -22,14 +19,8 @@
 ## Install
 Install global and local dependencies<br>
 
-### Yarn
 ```sh
 yarn
-```
-
-### NPM
-```sh
-npm i
 ```
 
 ## Running locally
@@ -37,14 +28,8 @@ npm i
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Yarn
 ```sh
 yarn dev
-```
-
-### NPM
-```sh
-npm run dev
 ```
 
 ## Publication
