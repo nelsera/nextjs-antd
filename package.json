@@ -12,7 +12,6 @@
     "url": "git@github.com:francisconelson/nextjs-antd.git"
   },
   "license": "SEE LICENSE IN ./.github/LICENSE",
-  "private": true,
   "contributors": [
     {
       "name": "Nelson",
@@ -22,6 +21,7 @@
   ],
   "engine": {
     "node": "11.8.0",
+    "npm": "6.7.0",
     "yarn": "1.13.0"
   },
   "scripts": {
@@ -42,6 +42,5 @@
     "next-routes": "1.4.2",
     "react": "16.7.0",
     "react-dom": "16.7.0"
-  },
-  "config": {}
+  }
 }

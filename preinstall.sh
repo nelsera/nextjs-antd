@@ -1,1 +1,1 @@
-# global dependencies
+# for global dependencies
