@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/francisconelson/nextjs-antd.git"
   },
-  "license": "SEE LICENSE IN ./.github/LICENSE",
+  "license": "MIT",
   "contributors": [
     {
       "name": "Nelson",
@@ -19,10 +19,6 @@
       "url": "https://github.com/francisconelson"
     }
   ],
-  "engine": {
-    "node": "11.8.0",
-    "yarn": "1.13.0"
-  },
   "scripts": {
     "preinstall": "./preinstall.sh",
     "dev": "next",
@@ -41,5 +37,9 @@
     "next-routes": "1.4.2",
     "react": "16.7.0",
     "react-dom": "16.7.0"
+  },
+  "engine": {
+    "node": "11.8.0",
+    "yarn": "1.13.0"
   }
 }
