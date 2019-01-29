@@ -1,6 +1,6 @@
 {
   "name": "nextjs-antd",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Next.js + Ant Design",
   "homepage": "https://francisconelson.github.io/nextjs-antd",
   "bugs": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:francisconelson/nextjs-antd.git"
+    "url": "git+https://github.com/francisconelson/nextjs-antd.git"
   },
   "license": "SEE LICENSE IN ./.github/LICENSE",
   "contributors": [

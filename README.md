@@ -5,6 +5,7 @@
 - [Stack](#stack)
 - [Install](#install)
 - [Running locally](#running-locally)
+- [Publication](#publication)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -45,6 +46,9 @@ yarn dev
 ```sh
 npm run dev
 ```
+
+## Publication
+
 
 ## Documentation
 
